@@ -1,0 +1,20 @@
+# macOS system files
+.DS_Store
+
+# Node modules (if it's a JS/TS project)
+node_modules/
+
+# Log files
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Build output
+dist/
+build/
+
+# IDE/editor settings
+.vscode/
+.idea/
